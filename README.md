@@ -1,7 +1,7 @@
 #Pacman 
 - This is a Pacman recreation project using python and visual studio code. 
 
-![screenshot](pythonproject.png)
+![screenshot](pythonimage.PNG)
 
 REFERENCES:
 
